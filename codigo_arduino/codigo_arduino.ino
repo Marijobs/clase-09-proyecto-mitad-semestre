@@ -83,6 +83,6 @@ void setup() {
 // loop() ocurre después de setup(), en bucle
 void loop() {
 
-  // nada
-
+  // Pensamos honestamente que no lo ibamos a lograr, pero con la guia de las clases pudimos comprender el funcionamiento de los codigo y lograr programar un temporizador basico. 
+// Lo logramos!!! :D
 }

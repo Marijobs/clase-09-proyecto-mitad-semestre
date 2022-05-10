@@ -3,7 +3,7 @@
 // 10/05/2022
 // hecho con Arduino Uno y IDE 1.8.19
 // hecho en base a ejemplo clase 5
-// Temporizador intervalos de entrenamiento funcional
+// Temporizador intervalos de entrenamiento funcional con sonido
 
 // incluir archivo en otra pestaña
 #include "notas.h"

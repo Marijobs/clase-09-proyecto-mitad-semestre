@@ -96,7 +96,7 @@ en este proyecto tuvimos los siguientes aprendizajes:
 * botón pulsador
 * circuito para 
 
-lo más difícil de este proyecto fue bla.
+lo más difícil de este proyecto fue bla.  
 
 cometimos los siguientes errores durante el armado del circuito y en el código, y los solucionamos así y este error no lo supimos resolver.
 
